@@ -1,0 +1,15 @@
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\bin\Debug\net6.0\Task_Dop_1220.exe
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\bin\Debug\net6.0\Task_Dop_1220.deps.json
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\bin\Debug\net6.0\Task_Dop_1220.runtimeconfig.json
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\bin\Debug\net6.0\Task_Dop_1220.dll
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\bin\Debug\net6.0\Task_Dop_1220.pdb
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\obj\Debug\net6.0\Task_Dop_1220.csproj.AssemblyReference.cache
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\obj\Debug\net6.0\Task_Dop_1220.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\obj\Debug\net6.0\Task_Dop_1220.AssemblyInfoInputs.cache
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\obj\Debug\net6.0\Task_Dop_1220.AssemblyInfo.cs
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\obj\Debug\net6.0\Task_Dop_1220.csproj.CoreCompileInputs.cache
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\obj\Debug\net6.0\Task_Dop_1220.dll
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\obj\Debug\net6.0\refint\Task_Dop_1220.dll
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\obj\Debug\net6.0\Task_Dop_1220.pdb
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\obj\Debug\net6.0\Task_Dop_1220.genruntimeconfig.cache
+C:\Users\Sharov\Desktop\SEM_04_DZ\Task_Dop_1220\obj\Debug\net6.0\ref\Task_Dop_1220.dll
